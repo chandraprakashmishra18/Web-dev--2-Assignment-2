@@ -26,4 +26,36 @@ https://chandraprakashmishra18.github.io/Web-dev--2-Assignment-2/
 ---
 
 ## 📂 Project Structure
+Web-dev--2-Assignment-2/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+│── README.md
 
+---
+
+##🎯 Learning Outcomes
+  Understanding of DOM manipulation
+  Working with JavaScript events
+  Using local storage (if used in project)
+  Writing clean and maintainable code
+  Building real-world UI projects
+
+---
+
+##🤝 Contribution
+This is a personal academic project, but suggestions are welcome.
+
+---
+
+##📄 License
+This project is for educational purposes only.
+
+---
+
+##👨‍💻 Author
+Chandra Prakash Mishra
+GitHub: https://github.com/chandraprakashmishra18
+
+---
